@@ -1,4 +1,7 @@
+Currently supported file types: 
+- fdx
 
+---
 # Installation
 
 After opening this repo in Xcode, use these instructions that I followed from ChatGPT: 
